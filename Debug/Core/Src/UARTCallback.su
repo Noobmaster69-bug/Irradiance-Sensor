@@ -1,0 +1,2 @@
+../Core/Src/UARTCallback.c:23:6:HAL_UART_TxCpltCallback	32	static,ignoring_inline_asm
+../Core/Src/UARTCallback.c:59:6:HAL_UART_RxCpltCallback	40	static,ignoring_inline_asm
